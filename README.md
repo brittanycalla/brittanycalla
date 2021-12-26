@@ -11,5 +11,4 @@ SKILLS AND TOOLS
 
 🎨 See my work at: [brittanycallahan.com](https://brittanycallahan.com)
 
-Want to work together or chat about data, programming, or community building?
-📫 Get in touch: [brittany@brittanycallahan.com](mailto:brittany@brittanycallahan.com)
+Want to work together or chat about data, programming, or community building?<br>📫 Let's talk!: [brittany@brittanycallahan.com](mailto:brittany@brittanycallahan.com)
