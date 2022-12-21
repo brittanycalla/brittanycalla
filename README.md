@@ -1,5 +1,7 @@
+![A banner that say's "Hi I'm Brittany, Let's build beautiful web apps](https://media.licdn.com/dms/image/D4D16AQF3_YJrcslFdg/profile-displaybackgroundimage-shrink_350_1400/0/1671550155153?e=1677110400&v=beta&t=5oGABBw2qjbifID48Fzai_jJm2gwYPA78PCeOzYCGQ8)
+
 ### Hello! 👋
 
-I'm Brittany. I’m a creative software engineer passionate about building beautiful and intuitive full stack web applications. As a former visual artist, I bring a different perspective to tech - I want to create software that users want to come back to again and again. I'm known for asking insightful questions and learning quickly. I’m passionate about tapping into the power of technology to make a meaningful impact for clients, organizations, and communities.
+I'm Brittany. I'm a software engineer with a strong creative background and a passion for building intuitive and visually appealing full stack web applications. Whether I'm designing user interfaces, optimizing algorithms, or developing new features, I am driven by the opportunity to create something that makes a positive impact on the world.<br>
 
-Want to work together or chat about data, programming, or community building?<br>📫 Let's talk!: [brittany@brittanycallahan.com](mailto:brittany@brittanycallahan.com)
+Wanna work together? Chat? 👉 [brittany@brittanycallahan.com](mailto:brittany@brittanycallahan.com)
