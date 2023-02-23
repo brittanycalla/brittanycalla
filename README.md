@@ -1,4 +1,4 @@
-![A banner that say's "Hi I'm Brittany, Let's build beautiful web apps]([https://media.licdn.com/dms/image/D4D16AQF3_YJrcslFdg/profile-displaybackgroundimage-shrink_350_1400/0/1671550155153?e=1677110400&v=beta&t=5oGABBw2qjbifID48Fzai_jJm2gwYPA78PCeOzYCGQ8](https://media.licdn.com/dms/image/D4D16AQF3_YJrcslFdg/profile-displaybackgroundimage-shrink_350_1400/0/1671550155153?e=1682553600&v=beta&t=NJ1l3SAQeM_-WfItGmMcDvDdjkijy_WwgWRD1AaA7fE)
+![A banner that say's "Hi I'm Brittany, Let's build beautiful web apps](https://media.licdn.com/dms/image/D4D16AQF3_YJrcslFdg/profile-displaybackgroundimage-shrink_350_1400/0/1671550155153?e=1682553600&v=beta&t=NJ1l3SAQeM_-WfItGmMcDvDdjkijy_WwgWRD1AaA7fE)
 
 ### Hello! 👋
 
